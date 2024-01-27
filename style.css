@@ -1,0 +1,59 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    font-family: cursive;
+    box-sizing: border-box;
+}
+
+/*  css for body */
+body
+{
+
+     background-color: rgb(61, 237, 237);
+     width: 100%;
+     height: 100vh;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+ /* This is the container section*/
+.box
+{
+    background-color:rgb(229, 144, 172);
+    height: fit-content;
+    width: fit-content;
+    padding: 50px;
+    border-radius: 50px 15px 50px 15px;
+    box-shadow: 7px 7px 13px;
+}
+ /* heading "StopWatch" section*/
+.heading
+{
+    color:black;
+    font-size: xx-large;
+    text-align: center;
+}
+
+h1
+{
+    font-size: 55px;
+
+
+}
+
+/* Css for button section*/
+button
+{
+    border: none;
+    outline: none;
+    font-size: 20px;
+    padding: 15px;
+    border-radius: 5px;
+    margin: 20px;
+    color: white;
+    cursor: pointer;
+
+}
+
+
